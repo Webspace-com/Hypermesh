@@ -1,0 +1,1250 @@
+<ShortcutsData>
+ <ProfileShortcuts name="BaseProfile">
+  <Functions>
+   <Category name="Dock Windows">
+    <Function name="Project Browser" shortcut=""/>
+    <Function name="Property Editor" shortcut=""/>
+   </Category>
+   <Category name="Edit">
+    <Function name="Copy" shortcut=""/>
+    <Function name="Paste" shortcut=""/>
+    <Function name="Redo" shortcut=""/>
+    <Function name="Undo" shortcut=""/>
+    <Function name="Cut" shortcut=""/>
+   </Category>
+   <Category name="File">
+    <Function name="Close" shortcut=""/>
+    <Function name="Import..." shortcut=""/>
+    <Function name="Licensing" shortcut=""/>
+    <Function name="Open..." shortcut=""/>
+    <Function name="Save" shortcut=""/>
+    <Function name="Close All" shortcut=""/>
+    <Function name="Save As..." shortcut=""/>
+    <Category name="New">
+     <Function name="AltairCFD" shortcut=""/>
+     <Function name="Hosting" shortcut=""/>
+     <Function name="HyperStudy" shortcut=""/>
+     <Function name="HypermeshAERO" shortcut=""/>
+     <Function name="XmluiDevStudioClient" shortcut=""/>
+    </Category>
+    <Category name="Print">
+     <Function name="Print..." shortcut=""/>
+     <Function name="Print Preview..." shortcut=""/>
+    </Category>
+    <Category name="Screen Capture">
+     <Function name="Advanced Screen Capture ..." shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Help">
+    <Function name="About HyperWorks" shortcut=""/>
+    <Function name="Updates and System Information" shortcut=""/>
+   </Category>
+   <Category name="View">
+    <Function name="Full Screen" shortcut=""/>
+   </Category>
+  </Functions>
+ </ProfileShortcuts>
+ <ProfileShortcuts name="HyperworksLauncher">
+  <Functions>
+   <Category name="Dock Windows">
+    <Function name="Project Browser" shortcut=""/>
+    <Function name="Property Editor" shortcut=""/>
+    <Function name="Tcl Command Window" shortcut=""/>
+    <Function name="Altair Copilot (Beta)" shortcut=""/>
+    <Function name="Python Window" shortcut=""/>
+   </Category>
+   <Category name="Edit">
+    <Function name="Copy" shortcut=""/>
+    <Function name="Paste" shortcut=""/>
+    <Function name="Redo" shortcut=""/>
+    <Function name="Undo" shortcut=""/>
+    <Function name="Cut" shortcut=""/>
+   </Category>
+   <Category name="File">
+    <Function name="Licensing" shortcut=""/>
+    <Function name="Open..." shortcut=""/>
+   </Category>
+   <Category name="Help">
+    <Function name="About HyperWorks" shortcut=""/>
+    <Function name="Updates and System Information" shortcut=""/>
+   </Category>
+   <Category name="View">
+    <Function name="Full Screen" shortcut=""/>
+    <Category name="Ribbons">
+     <Function name="Create New Custom Page" shortcut=""/>
+     <Function name="Delete Custom Pages..." shortcut=""/>
+     <Function name="Export Custom Pages..." shortcut=""/>
+     <Function name="Import Custom Pages..." shortcut=""/>
+    </Category>
+   </Category>
+  </Functions>
+ </ProfileShortcuts>
+ <ProfileShortcuts name="HMXOptiStruct">
+  <Functions>
+   <Category name="Home">
+    <Function name="Move" shortcut="F7"/>
+    <Function name="Transformation Tool" shortcut="K"/>
+    <Function name="Mirror" shortcut="F8"/>
+    <Function name="Scale" shortcut="J"/>
+    <Function name="Interactive Move Tool" shortcut=""/>
+    <Function name="Position Tool" shortcut="L"/>
+    <Category name="Files">
+     <Function name="Open" shortcut="Ctrl+Shift+O"/>
+     <Function name="New" shortcut="Ctrl+Shift+N"/>
+     <Function name="Save" shortcut="Ctrl+Shift+S"/>
+     <Function name="Save as" shortcut=""/>
+     <Function name="Import" shortcut="Ctrl+Shift+I"/>
+     <Function name="Export" shortcut="Ctrl+Shift+E"/>
+    </Category>
+    <Category name="Measure">
+     <Function name="Measure" shortcut="D"/>
+     <Function name="Mass Calculation" shortcut="Shift+F8"/>
+    </Category>
+   </Category>
+   <Category name="Topology">
+    <Function name="Mesh Controls" shortcut=""/>
+    <Function name="Offset" shortcut="Z"/>
+    <Function name="Midlines" shortcut=""/>
+    <Function name="Extract" shortcut=""/>
+    <Function name="Ribs" shortcut=""/>
+    <Function name="Feature Edges" shortcut=""/>
+    <Function name="Split/Stitch/Unsplit/Suppress/Unsuppress" shortcut="W"/>
+    <Function name="Quick Edit" shortcut="Q"/>
+    <Function name="Fillets" shortcut=""/>
+    <Function name="Align/Project" shortcut=""/>
+    <Function name="Detach" shortcut=""/>
+    <Function name="Box Trim" shortcut=""/>
+    <Function name="Preserve Edges" shortcut=""/>
+    <Function name="CAD Update" shortcut=""/>
+    <Function name="Geometry Match Topology" shortcut=""/>
+    <Function name="Geometry Interference Check" shortcut=""/>
+    <Function name="Find Symmetry" shortcut=""/>
+    <Function name="Change Element Config" shortcut=""/>
+    <Function name="Change Element Type" shortcut=""/>
+    <Function name="Change Element Order" shortcut=""/>
+    <Function name="CAD/FE Comparison" shortcut=""/>
+    <Category name="FE Geometry">
+     <Function name="From CAD" shortcut=""/>
+     <Function name="From Elements" shortcut=""/>
+     <Function name="Update" shortcut=""/>
+    </Category>
+    <Category name="Features">
+     <Function name="Feature Manager" shortcut=""/>
+     <Function name="Features" shortcut=""/>
+     <Function name="List Browser" shortcut=""/>
+    </Category>
+    <Category name="Param/Criteria">
+     <Function name="Criteria" shortcut=""/>
+     <Function name="Param" shortcut=""/>
+    </Category>
+    <Category name="Points/Nodes">
+     <Function name="Create Points/Nodes" shortcut="U"/>
+     <Function name="Extract Points/Nodes" shortcut="Ctrl+P"/>
+    </Category>
+    <Category name="Shapes">
+     <Function name="Create Circle" shortcut=""/>
+     <Function name="Create Rectangle" shortcut=""/>
+     <Function name="Create Arc" shortcut=""/>
+    </Category>
+    <Category name="Lines">
+     <Function name="Create Lines" shortcut="Shift+L"/>
+     <Function name="Combine/Extend Lines" shortcut="Ctrl+Shift+L"/>
+     <Function name="Create Polylines" shortcut=""/>
+    </Category>
+    <Category name="Ruled">
+     <Function name="Smooth" shortcut=""/>
+     <Function name="Linear" shortcut=""/>
+    </Category>
+    <Category name="Extrude/Revolve">
+     <Function name="Extrude" shortcut=""/>
+     <Function name="Revolve" shortcut=""/>
+    </Category>
+    <Category name="Coarsen">
+     <Function name="1D" shortcut=""/>
+     <Function name="2D" shortcut=""/>
+    </Category>
+    <Category name="Defeature">
+     <Function name="Cuts/Edge Fillets" shortcut=""/>
+     <Function name="Small Features" shortcut=""/>
+     <Function name="Logos" shortcut=""/>
+     <Function name="Fillets" shortcut="N"/>
+     <Function name="Holes" shortcut=""/>
+     <Function name="Batch" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="1D">
+    <Function name="Line Mesh" shortcut=""/>
+    <Function name="Stiffener Mesh" shortcut=""/>
+    <Function name="Member Mesh" shortcut=""/>
+    <Function name="Elastic Section" shortcut=""/>
+    <Function name="Shell Section" shortcut=""/>
+    <Function name="Solid Section" shortcut=""/>
+    <Function name="VABS Section" shortcut=""/>
+    <Function name="Beam Sections from CSV" shortcut=""/>
+    <Function name="GFEM Section cut" shortcut=""/>
+    <Function name="Masses 0D" shortcut=""/>
+    <Function name="Masses 1D" shortcut=""/>
+    <Function name="Mass Balance" shortcut=""/>
+    <Function name="Springs 0D" shortcut=""/>
+    <Function name="Springs 1D" shortcut=""/>
+    <Function name="Gaps 0D" shortcut=""/>
+    <Function name="Gaps 1D" shortcut=""/>
+    <Function name="Acoustics 0D" shortcut=""/>
+    <Function name="Acoustics 1D" shortcut=""/>
+    <Function name="Bonds 0D" shortcut=""/>
+    <Function name="Bonds 1D" shortcut=""/>
+    <Function name="Rods 1D" shortcut=""/>
+    <Function name="Thermal 1D" shortcut=""/>
+    <Function name="Beams" shortcut=""/>
+    <Function name="Plots" shortcut=""/>
+    <Category name="Beam Sections">
+     <Function name="Standard Section" shortcut=""/>
+     <Function name="List Beam Sections" shortcut=""/>
+    </Category>
+    <Category name="Edit Beam">
+     <Function name="Align" shortcut=""/>
+     <Function name="Orient" shortcut=""/>
+     <Function name="Offset" shortcut=""/>
+     <Function name="Pins" shortcut=""/>
+     <Function name="Review" shortcut=""/>
+    </Category>
+    <Category name="Inflate">
+     <Function name="2D" shortcut=""/>
+     <Function name="3D" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="2D">
+    <Function name="Replicate" shortcut=""/>
+    <Function name="BatchMesher" shortcut="Shift+A"/>
+    <Function name="CFD 2D Mesh" shortcut="Shift+T"/>
+    <Function name="Rigid Body Mesh" shortcut=""/>
+    <Function name="Map Thickness" shortcut=""/>
+    <Function name="Rebuild" shortcut="R"/>
+    <Function name="Adaptive Wrap" shortcut=""/>
+    <Function name="EM Lattice" shortcut=""/>
+    <Function name="Facets from Nodes" shortcut=""/>
+    <Function name="Shrink Wrap" shortcut=""/>
+    <Function name="Auto Quality" shortcut=""/>
+    <Function name="Imprint" shortcut="Shift+P"/>
+    <Function name="Hole/Gap Fill" shortcut=""/>
+    <Function name="Cut Hole" shortcut=""/>
+    <Function name="Split" shortcut=""/>
+    <Function name="Align/Project" shortcut="P"/>
+    <Category name="Surfaces">
+     <Function name="Patch/Spline" shortcut="Ctrl+S"/>
+     <Function name="Extend" shortcut=""/>
+     <Function name="Cross Extend" shortcut=""/>
+     <Function name="Skin" shortcut=""/>
+     <Function name="From FE" shortcut=""/>
+    </Category>
+    <Category name="Freeform">
+     <Function name="Create" shortcut="A"/>
+    </Category>
+    <Category name="Map Mesh">
+     <Function name="Create" shortcut=""/>
+    </Category>
+    <Category name="Midmesh">
+     <Function name="Automatic" shortcut="Shift+M"/>
+     <Function name="Repair/Fill" shortcut=""/>
+     <Function name="Create Midedge" shortcut=""/>
+     <Function name="Edit Topology" shortcut=""/>
+     <Function name="Align" shortcut=""/>
+     <Function name="Inspect" shortcut=""/>
+    </Category>
+    <Category name="Midsurface">
+     <Function name="Base Surfaces" shortcut=""/>
+     <Function name="Automatic" shortcut="M"/>
+     <Function name=" Edit Plates" shortcut=""/>
+     <Function name="Pocket Imprint" shortcut=""/>
+    </Category>
+    <Category name="Edit Elements">
+     <Function name="Smooth" shortcut="S"/>
+     <Function name="Move" shortcut="I"/>
+     <Function name="Split" shortcut="F6"/>
+     <Function name="Replace" shortcut="Shift+R"/>
+     <Function name="Density" shortcut=""/>
+     <Function name="Create" shortcut="E"/>
+     <Function name="Origin" shortcut=""/>
+     <Function name="Associate" shortcut="Shift+N"/>
+    </Category>
+    <Category name="Normals">
+     <Function name="Normals" shortcut="Shift+F4"/>
+     <Function name="Review Element Orientations" shortcut=""/>
+    </Category>
+    <Category name="Refine">
+     <Function name="Auto Quads" shortcut=""/>
+     <Function name="Box" shortcut=""/>
+     <Function name="Manual" shortcut=""/>
+    </Category>
+    <Category name="Fuse">
+     <Function name="Open Shells" shortcut=""/>
+     <Function name="Closed Shells" shortcut=""/>
+    </Category>
+    <Category name="Surface Repair">
+     <Function name="Validate" shortcut=""/>
+     <Function name="Edges" shortcut="Shift+S"/>
+     <Function name="Self Intersections" shortcut=""/>
+     <Function name="Slivers" shortcut=""/>
+     <Function name="Duplicates" shortcut=""/>
+     <Function name="Closed Shells" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="3D">
+    <Function name="Thin Solids" shortcut=""/>
+    <Function name="Plug" shortcut=""/>
+    <Function name="Solid Mesh Optimization" shortcut=""/>
+    <Function name="Mesh Boolean" shortcut=""/>
+    <Function name="Exterior" shortcut=""/>
+    <Category name="Solids">
+     <Function name="Bounding" shortcut="Ctrl+O"/>
+     <Function name="Sphere" shortcut=""/>
+     <Function name="Box" shortcut=""/>
+     <Function name="Cylinder" shortcut=""/>
+    </Category>
+    <Category name="Tet">
+     <Function name="Create" shortcut="T"/>
+     <Function name="Remesh" shortcut=""/>
+    </Category>
+    <Category name="Map">
+     <Function name="Create" shortcut="Shift+H"/>
+    </Category>
+    <Category name="Boolean">
+     <Function name="Combine" shortcut="Shift+O"/>
+     <Function name="Subtract" shortcut=""/>
+     <Function name="Intersect" shortcut=""/>
+    </Category>
+    <Category name="Interior">
+     <Function name="Create" shortcut=""/>
+     <Function name="F-S Interface" shortcut=""/>
+     <Function name="F-F Interface" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Assembly">
+    <Function name="Organize" shortcut="F9"/>
+    <Function name="Libraries" shortcut=""/>
+    <Function name="Renumber" shortcut="F12"/>
+    <Function name="Spatial Renumber" shortcut=""/>
+    <Function name="ID Manager" shortcut=""/>
+    <Function name="CSV to Assemblies" shortcut=""/>
+    <Function name="CSV to Parts" shortcut=""/>
+    <Function name="Map Components to Parts" shortcut=""/>
+    <Function name="Organize by ID" shortcut=""/>
+    <Function name="Organize by System" shortcut=""/>
+    <Function name="Subscribe" shortcut=""/>
+    <Function name="Match" shortcut=""/>
+    <Function name="Part Browser" shortcut=""/>
+    <Function name="Subsystem Browser" shortcut=""/>
+    <Function name="Mechanism" shortcut=""/>
+    <Function name="Representations" shortcut=""/>
+    <Function name="Controls" shortcut=""/>
+    <Function name="Scenario Manager" shortcut=""/>
+    <Function name="Verification" shortcut=""/>
+    <Function name="Comparison" shortcut=""/>
+    <Category name="Classify">
+     <Function name="Label" shortcut=""/>
+     <Function name="Train" shortcut=""/>
+     <Function name="Classify" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Connectors">
+    <Function name="Connector Browser" shortcut=""/>
+    <Function name="Comparison ..." shortcut=""/>
+    <Function name="Connector Quality Check" shortcut=""/>
+    <Function name="Apply Mass" shortcut=""/>
+    <Function name="Connector Options" shortcut=""/>
+    <Function name="RBE3" shortcut=""/>
+    <Function name="Imprint" shortcut=""/>
+    <Category name="Controls">
+     <Function name="Controls" shortcut="Shift+C"/>
+     <Function name="Scenario Manager" shortcut=""/>
+    </Category>
+    <Category name="Point">
+     <Function name="Point" shortcut=""/>
+     <Function name="Auto Point" shortcut=""/>
+     <Function name="Point FE Absorb" shortcut=""/>
+    </Category>
+    <Category name="Fastener">
+     <Function name="Fastener" shortcut=""/>
+     <Function name="Auto Fastener" shortcut=""/>
+     <Function name="Fastener FE Absorb" shortcut=""/>
+    </Category>
+    <Category name="Line">
+     <Function name="Line" shortcut=""/>
+     <Function name="Auto Line" shortcut=""/>
+     <Function name="Line FE Absorb" shortcut=""/>
+    </Category>
+    <Category name="Area">
+     <Function name="Area" shortcut=""/>
+     <Function name="Auto Area" shortcut=""/>
+     <Function name="Area FE Absorb" shortcut=""/>
+    </Category>
+    <Category name="Attachment">
+     <Function name="Attachment" shortcut=""/>
+     <Function name="Attachment FE Absorb" shortcut=""/>
+    </Category>
+    <Category name="Connect">
+     <Function name="Connect" shortcut=""/>
+     <Function name="Subsytem Connector FE Absorb" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Morph">
+    <Function name="Morph Options" shortcut=""/>
+    <Function name="Free" shortcut=""/>
+    <Function name="Proximity" shortcut=""/>
+    <Function name="Alter Dimensions" shortcut=""/>
+    <Function name="Domains" shortcut=""/>
+    <Function name="Handles" shortcut=""/>
+    <Function name="Map To Geometry" shortcut=""/>
+    <Function name="Sculpting" shortcut=""/>
+    <Function name="Set Biasing" shortcut=""/>
+    <Function name="Symmetries" shortcut=""/>
+    <Category name="Constraints">
+     <Function name="Morph Constraints" shortcut=""/>
+     <Function name="Release Nodes" shortcut=""/>
+    </Category>
+    <Category name="Volumes">
+     <Function name="Enclose" shortcut=""/>
+     <Function name="Move" shortcut=""/>
+     <Function name="Split/Combine" shortcut=""/>
+     <Function name="Edges" shortcut=""/>
+     <Function name="Register" shortcut=""/>
+     <Function name="Shrink/Fit" shortcut=""/>
+     <Function name="Convert" shortcut=""/>
+     <Function name="Load/Save" shortcut=""/>
+    </Category>
+    <Category name="Shapes">
+     <Function name="Shapes" shortcut=""/>
+     <Function name="Morph Shapes List" shortcut=""/>
+     <Function name="Morph Shapes Record" shortcut=""/>
+     <Function name="Morph Shapes Undo All" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Model">
+    <Function name="Composites" shortcut=""/>
+    <Function name="Contact Surfaces" shortcut=""/>
+    <Function name="Contact Pairs" shortcut=""/>
+    <Function name="Contact Properties" shortcut=""/>
+    <Function name="Auto Contact" shortcut=""/>
+    <Function name="Contact Browser" shortcut=""/>
+    <Function name="Rigids" shortcut=""/>
+    <Function name="RBE3s" shortcut=""/>
+    <Function name="Rigid Body" shortcut=""/>
+    <Function name="List Rigid Bodies" shortcut=""/>
+    <Function name="Blocks" shortcut=""/>
+    <Function name="Boolean On Sets" shortcut=""/>
+    <Function name="Combine Rigids" shortcut=""/>
+    <Function name="Switch Rigids" shortcut=""/>
+    <Function name="Features" shortcut=""/>
+    <Function name="Fields" shortcut=""/>
+    <Function name="Joints" shortcut=""/>
+    <Function name="Parameters" shortcut=""/>
+    <Function name="Regions" shortcut=""/>
+    <Function name="RSpline" shortcut=""/>
+    <Function name="Contact Comparison" shortcut=""/>
+    <Function name="PLOTEL from DMIG" shortcut=""/>
+    <Category name="Systems">
+     <Function name="Systems" shortcut=""/>
+     <Function name="List Systems and System Collectors" shortcut=""/>
+     <Function name="Assign Systems" shortcut=""/>
+    </Category>
+    <Category name="Vectors">
+     <Function name="Vectors" shortcut=""/>
+     <Function name="List Vectors and Vector Collectors" shortcut=""/>
+    </Category>
+    <Category name="Materials">
+     <Function name="Materials" shortcut=""/>
+     <Function name="List Materials" shortcut=""/>
+     <Function name="Assign Materials" shortcut=""/>
+    </Category>
+    <Category name="Properties">
+     <Function name="Properties" shortcut=""/>
+     <Function name="List Properties" shortcut=""/>
+     <Function name="Assign Properties" shortcut=""/>
+    </Category>
+    <Category name="Sets">
+     <Function name="Sets" shortcut=""/>
+     <Function name="List Sets" shortcut=""/>
+    </Category>
+    <Category name="Groups">
+     <Function name="Groups" shortcut=""/>
+     <Function name="List Groups" shortcut=""/>
+    </Category>
+    <Category name="Rigid Walls">
+     <Function name="Rigid Walls" shortcut=""/>
+     <Function name="List Rigid Walls" shortcut=""/>
+    </Category>
+    <Category name="Cross Sections">
+     <Function name="Cross Sections" shortcut=""/>
+     <Function name="List Cross Sections" shortcut=""/>
+    </Category>
+    <Category name="Curves">
+     <Function name="Curves" shortcut=""/>
+     <Function name="List Curves" shortcut=""/>
+    </Category>
+    <Category name="Tags">
+     <Function name="Tags" shortcut=""/>
+     <Function name="List Tags" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Validate">
+    <Function name="Penetration" shortcut="Shift+F6"/>
+    <Function name="Mass" shortcut=""/>
+    <Function name="Model Tour" shortcut=""/>
+    <Function name="Edges" shortcut="Ctrl+E"/>
+    <Function name="Faces" shortcut="Shift+F"/>
+    <Function name="Equivalence" shortcut="Shift+E"/>
+    <Function name="Unused" shortcut="Shift+F12"/>
+    <Function name="Empty" shortcut=""/>
+    <Category name="Model">
+     <Function name="Manage and Run Checks" shortcut=""/>
+     <Function name="Model Checker Entity view" shortcut="Ctrl+D"/>
+    </Category>
+   </Category>
+   <Category name="Analyze">
+    <Function name="Constraints" shortcut=""/>
+    <Function name="Inertia Relief" shortcut=""/>
+    <Function name="MPCs" shortcut=""/>
+    <Function name="List BCs" shortcut=""/>
+    <Function name="Body Accelerations" shortcut=""/>
+    <Function name="Body Rotational Force" shortcut=""/>
+    <Function name="Body Gravity" shortcut=""/>
+    <Function name="List Body Forces" shortcut=""/>
+    <Function name="Bolt Pretension" shortcut=""/>
+    <Function name="Load Types" shortcut=""/>
+    <Function name="Line Loads" shortcut=""/>
+    <Function name="1D Deformations" shortcut=""/>
+    <Function name="Normal Modes" shortcut=""/>
+    <Function name="CMS SE Generation" shortcut=""/>
+    <Function name="CDS SE Generation" shortcut=""/>
+    <Function name="Unit Input Frequency Response" shortcut=""/>
+    <Function name="Random PSD Frequency Response" shortcut=""/>
+    <Function name="General frequency response" shortcut=""/>
+    <Function name="DDAM" shortcut=""/>
+    <Function name="Global Case Control" shortcut=""/>
+    <Function name="Global Output Requests" shortcut=""/>
+    <Function name="Run Parameters" shortcut=""/>
+    <Function name="Contour Loads" shortcut=""/>
+    <Function name="Summation" shortcut=""/>
+    <Category name="Loads">
+     <Function name="Pressure" shortcut=""/>
+     <Function name="Forces" shortcut=""/>
+     <Function name="Moments" shortcut=""/>
+     <Function name="List Loads" shortcut=""/>
+    </Category>
+    <Category name="Enforced Disps">
+     <Function name="Displacements" shortcut=""/>
+     <Function name="List Enforced Displacements" shortcut=""/>
+    </Category>
+    <Category name="Excitations">
+     <Function name="Excitation Load" shortcut=""/>
+     <Function name="List Excitation Loads" shortcut=""/>
+    </Category>
+    <Category name="Initial Conditions">
+     <Function name="Initial Conditions" shortcut=""/>
+     <Function name="List Initial Velocities" shortcut=""/>
+    </Category>
+    <Category name="Convection">
+     <Function name="Convection" shortcut=""/>
+     <Function name="List Convection Loads" shortcut=""/>
+    </Category>
+    <Category name="Temperatures">
+     <Function name="Temperatures" shortcut=""/>
+     <Function name="List Temperature Loads" shortcut=""/>
+    </Category>
+    <Category name="Heat Flux">
+     <Function name="Heat Flux" shortcut=""/>
+     <Function name="List Heat Flux Loads" shortcut=""/>
+    </Category>
+    <Category name="Volume">
+     <Function name="Volume" shortcut=""/>
+     <Function name="List Volumetric Heat Addition Loads" shortcut=""/>
+    </Category>
+    <Category name="Fatigue PM">
+     <Function name="Create New" shortcut=""/>
+    </Category>
+    <Category name="Analyze">
+     <Function name="Loadsteps" shortcut=""/>
+     <Function name="Run OptiStruct Solver" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Skeleton">
+    <Function name="Skeleton Browser" shortcut=""/>
+    <Function name="skeleton categorize" shortcut=""/>
+    <Function name="Extract Line" shortcut=""/>
+    <Function name="Auto Offset" shortcut=""/>
+    <Function name="Absorb" shortcut=""/>
+    <Function name="Equivalence" shortcut=""/>
+    <Function name="Combine" shortcut=""/>
+    <Function name="Duplicates" shortcut=""/>
+    <Function name="Member Panel" shortcut=""/>
+    <Function name="Symmetry" shortcut=""/>
+    <Function name="Connect" shortcut=""/>
+    <Category name="Joint Box">
+     <Function name="Joint Box" shortcut=""/>
+    </Category>
+    <Category name="Joint Legs">
+     <Function name="Edit Joint Legs" shortcut=""/>
+    </Category>
+    <Category name="Member">
+     <Function name="Member" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Design Space">
+    <Function name="Global" shortcut=""/>
+    <Function name="Local" shortcut=""/>
+    <Function name="Autobox" shortcut=""/>
+    <Function name="Edit" shortcut=""/>
+    <Function name="Adhesives" shortcut=""/>
+    <Function name="Exoskeleton" shortcut=""/>
+    <Function name="Hole/Gap Fill" shortcut=""/>
+    <Function name="Wrap" shortcut=""/>
+    <Function name="Envelope" shortcut=""/>
+    <Function name="RBE3" shortcut=""/>
+    <Function name="Tie" shortcut=""/>
+    <Category name="Contact">
+     <Function name="Contact" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Optimize">
+    <Function name="Design Variable Links" shortcut=""/>
+    <Function name="Discrete Design Values" shortcut=""/>
+    <Function name="Non Linear Shape Desvars" shortcut=""/>
+    <Function name="Objective References" shortcut=""/>
+    <Function name="Optimization Control Params" shortcut=""/>
+    <Function name="Constraint Screening" shortcut=""/>
+    <Function name="Lattice Params" shortcut=""/>
+    <Function name="OSSmooth" shortcut=""/>
+    <Function name="OSSmooth Volume" shortcut=""/>
+    <Function name="Voxelmesh" shortcut=""/>
+    <Function name="Hex-core" shortcut=""/>
+    <Function name="Matfrac" shortcut=""/>
+    <Function name="Reg. Volfrac" shortcut=""/>
+    <Category name="Topology">
+     <Function name="Topology" shortcut=""/>
+     <Function name="List Topology Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Topography">
+     <Function name="Topography" shortcut=""/>
+     <Function name="List Topography Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Size">
+     <Function name="Size" shortcut=""/>
+     <Function name="DVPREL" shortcut=""/>
+     <Function name="List Size (Parameter) Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Shape">
+     <Function name="Shape" shortcut=""/>
+     <Function name="List Shape Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Gauges">
+     <Function name="Gauges" shortcut=""/>
+     <Function name="List Gauge Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Free Size">
+     <Function name="Free Size" shortcut=""/>
+     <Function name="List Free Size Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Free Shape">
+     <Function name="Free Shape" shortcut=""/>
+     <Function name="List Free Shape Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Composite Size">
+     <Function name="Composite Size" shortcut=""/>
+     <Function name="List Composite Size Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Shuffle">
+     <Function name="Composite Shuffle" shortcut=""/>
+     <Function name="List Composite Shuffle Design Variables" shortcut=""/>
+    </Category>
+    <Category name="Table Entries">
+     <Function name="Table Entries" shortcut=""/>
+     <Function name="List Table Entries" shortcut=""/>
+    </Category>
+    <Category name="Equations">
+     <Function name="Design Equations" shortcut=""/>
+     <Function name="List Design Equations" shortcut=""/>
+    </Category>
+    <Category name="Responses">
+     <Function name="Responses" shortcut=""/>
+     <Function name="List Optimization Responses" shortcut=""/>
+    </Category>
+    <Category name="Constraints">
+     <Function name="Constraints" shortcut=""/>
+     <Function name="List Design Constraints" shortcut=""/>
+    </Category>
+    <Category name="Objectives">
+     <Function name="Objective" shortcut=""/>
+     <Function name="List Objective" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Design Explorer">
+    <Function name="Generic Response" shortcut=""/>
+    <Function name="Register Solver Script" shortcut=""/>
+    <Category name="Exploration">
+     <Function name="Review Explorations" shortcut=""/>
+     <Function name="Exploration" shortcut=""/>
+     <Function name="Design Explorer" shortcut=""/>
+    </Category>
+    <Category name="Gauge">
+     <Function name="Inputs" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Size">
+     <Function name="Size" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Shape">
+     <Function name="Shape" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Materials">
+     <Function name="Materials" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Connectors">
+     <Function name="Properties" shortcut=""/>
+     <Function name="Controls" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Properties">
+     <Function name="Properties" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Parameters">
+     <Function name="Parameters" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Configuration">
+     <Function name="Configuration" shortcut=""/>
+     <Function name="Review Inputs" shortcut=""/>
+    </Category>
+    <Category name="Mass/Volume">
+     <Function name="Mass/Volume" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Disps.">
+     <Function name="Disps. " shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="  Stress/Strain">
+     <Function name="Stress/Strain" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Force">
+     <Function name="Force" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Frequency">
+     <Function name="Frequency" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Connector">
+     <Function name="Connector" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Measure">
+     <Function name="Measure" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Derived">
+     <Function name="Derived" shortcut=""/>
+     <Function name="Review Responses" shortcut=""/>
+    </Category>
+    <Category name="Objectives">
+     <Function name="Objectives" shortcut=""/>
+     <Function name="Review Objectives" shortcut=""/>
+    </Category>
+    <Category name="Constraints">
+     <Function name="Constraints" shortcut=""/>
+     <Function name="Review Constraints" shortcut=""/>
+    </Category>
+    <Category name="Evaluate">
+     <Function name="Results Explorer" shortcut=""/>
+     <Function name="Evaluate" shortcut=""/>
+     <Function name="Run Status" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Post">
+    <Function name="Create Derived Load Cases" shortcut=""/>
+    <Function name="Beam Stress" shortcut=""/>
+    <Function name="Panel Plot" shortcut=""/>
+    <Function name="Bar Plot" shortcut=""/>
+    <Function name="Tools" shortcut=""/>
+    <Function name="Matrix" shortcut=""/>
+    <Category name="Results">
+     <Function name="Result" shortcut=""/>
+     <Function name="Import Results" shortcut=""/>
+     <Function name="Post Preferences" shortcut=""/>
+    </Category>
+    <Category name="Contour">
+     <Function name="Contour" shortcut=""/>
+     <Function name="Create Contour Plot" shortcut=""/>
+    </Category>
+    <Category name="Vector">
+     <Function name="Vector" shortcut=""/>
+     <Function name="Create Vector Plot" shortcut=""/>
+    </Category>
+    <Category name="Tensor">
+     <Function name="Tensor" shortcut=""/>
+     <Function name="Create Tensor Plot" shortcut=""/>
+    </Category>
+    <Category name="Deformed">
+     <Function name="Deformed" shortcut=""/>
+     <Function name="Create Deformed Plot" shortcut=""/>
+    </Category>
+    <Category name="Marker">
+     <Function name="Marker" shortcut=""/>
+     <Function name="Create Marker Plot" shortcut=""/>
+    </Category>
+    <Category name="Create">
+     <Function name="Free Body Section Create" shortcut=""/>
+     <Function name="Free Body Section Browser" shortcut=""/>
+     <Function name="Free Body Group Create" shortcut=""/>
+     <Function name="Free Body Group Browser" shortcut=""/>
+    </Category>
+    <Category name="Plot">
+     <Function name="Free Body Section Plot" shortcut=""/>
+     <Function name="Free Body Section Manager" shortcut=""/>
+     <Function name="Create Free Body Section Plot" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Certification">
+    <Function name="Certification Browser" shortcut=""/>
+    <Function name="Beams" shortcut=""/>
+    <Function name="Panels" shortcut=""/>
+    <Function name="Rivet" shortcut=""/>
+    <Function name="Spring" shortcut=""/>
+    <Function name="Generic" shortcut=""/>
+    <Function name="Assign Loadcase" shortcut=""/>
+    <Function name="Contour" shortcut=""/>
+    <Category name="Property">
+     <Function name="Create StructuralProperty" shortcut=""/>
+     <Function name="Review structuralproperty" shortcut=""/>
+     <Function name="Assign StructuralProperties" shortcut=""/>
+    </Category>
+    <Category name="Method">
+     <Function name="Create Method" shortcut=""/>
+     <Function name="Assign Method" shortcut=""/>
+     <Function name="Review Method" shortcut=""/>
+    </Category>
+    <Category name="Run Method">
+     <Function name="Run Method" shortcut=""/>
+     <Function name="List of Tables" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Report">
+    <Function name="Session Report" shortcut=""/>
+    <Function name="Model Summary" shortcut=""/>
+    <Function name="Run" shortcut=""/>
+    <Function name="Add Chapter" shortcut=""/>
+    <Function name="Add Text" shortcut=""/>
+    <Function name="Add Image" shortcut=""/>
+    <Function name="Add Table" shortcut=""/>
+    <Function name="Break" shortcut=""/>
+    <Function name="Text File" shortcut=""/>
+    <Function name="Word Document" shortcut=""/>
+    <Function name="Excel Document" shortcut=""/>
+    <Function name="External Object" shortcut=""/>
+    <Function name="Table of Reference" shortcut=""/>
+    <Function name="Model Info" shortcut=""/>
+    <Function name="Validate" shortcut=""/>
+    <Function name="Results" shortcut=""/>
+    <Function name="Capture" shortcut=""/>
+    <Category name="New Report">
+     <Function name="New Word Report" shortcut=""/>
+     <Function name="New PPT Report" shortcut=""/>
+    </Category>
+    <Category name="Template">
+     <Function name="Open" shortcut=""/>
+     <Function name="Save" shortcut=""/>
+    </Category>
+    <Category name="Export">
+     <Function name="Export" shortcut=""/>
+     <Function name="Sync" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Aeroelasticity">
+    <Function name="Aeroelasticity Browser" shortcut=""/>
+    <Function name="Ae Factors" shortcut=""/>
+    <Function name="Ae Links" shortcut=""/>
+    <Function name="Ae Parameters" shortcut=""/>
+    <Function name="Ae Static" shortcut=""/>
+    <Function name="Flutter Factors" shortcut=""/>
+    <Function name="Mk Aero1" shortcut=""/>
+    <Function name="Mk Aero2" shortcut=""/>
+    <Function name="Trim" shortcut=""/>
+    <Function name="Divergence" shortcut=""/>
+    <Function name="Flutter" shortcut=""/>
+    <Function name="Ae List" shortcut=""/>
+    <Function name="Ae Comp" shortcut=""/>
+    <Function name="Ae Compl" shortcut=""/>
+    <Function name="Flutter Curve" shortcut=""/>
+    <Category name="Panel Mesh">
+     <Function name="Panel Mesh (CAERO1)" shortcut=""/>
+     <Function name="Aeroelasticity Browser" shortcut=""/>
+    </Category>
+    <Category name="Body Mesh">
+     <Function name="Body Mesh (CAERO2)" shortcut=""/>
+    </Category>
+    <Category name="Engine Mesh">
+     <Function name="Engine Mesh" shortcut=""/>
+    </Category>
+    <Category name="Spline">
+     <Function name="Splines (SPLINE)" shortcut=""/>
+    </Category>
+    <Category name="Control Surface">
+     <Function name="Control Surface (AESURF)" shortcut=""/>
+    </Category>
+    <Category name="Monitor Points">
+     <Function name="Monitor Points (MONPNT)" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Axisymmetry">
+    <Function name="Axisymmetry" shortcut=""/>
+    <Function name="Volume Calc" shortcut=""/>
+   </Category>
+   <Category name="Injection Molding">
+    <Function name="Import Mold Mesh" shortcut=""/>
+    <Function name="Import CadMould" shortcut=""/>
+    <Function name="Create Orientation Field" shortcut=""/>
+    <Function name="Process Mold Mesh" shortcut=""/>
+    <Function name="Import Structural Mesh" shortcut=""/>
+    <Function name="Process Structural Mesh" shortcut=""/>
+    <Function name="Map and Export" shortcut=""/>
+   </Category>
+   <Category name="Concept">
+    <Function name="Doubler" shortcut=""/>
+    <Function name="Bulkhead" shortcut=""/>
+    <Function name="Stiffened Panel" shortcut=""/>
+    <Function name="Bead" shortcut=""/>
+   </Category>
+   <Category name="Developer">
+    <Function name="Recording" shortcut=""/>
+    <Category name="Tasks">
+     <Function name="Tasks" shortcut=""/>
+     <Function name="Xml editor" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="Tools">
+    <Function name="BatchMesher" shortcut=""/>
+    <Function name="Find and Replace" shortcut=""/>
+    <Function name="Find Shortest Distance" shortcut=""/>
+    <Function name="Metadata to CAE" shortcut=""/>
+    <Function name="Orientation Review" shortcut=""/>
+    <Function name="Periodic Mesh" shortcut=""/>
+    <Function name="Quality Report - Current Model" shortcut=""/>
+    <Function name="Quality Report - Multiple Models" shortcut=""/>
+    <Function name="Reorder" shortcut="F11"/>
+    <Function name="Spline from Bound Nodes" shortcut=""/>
+    <Function name="Spot Error Check" shortcut=""/>
+    <Function name="CDS SE Generation" shortcut=""/>
+    <Function name="CMS SE Generation" shortcut=""/>
+    <Function name="Line Loads" shortcut=""/>
+    <Function name="Material Reference Orientation" shortcut=""/>
+    <Function name="Model Checker" shortcut=""/>
+    <Function name="PLOTEL from DMIG" shortcut=""/>
+    <Function name="Set Browser" shortcut=""/>
+    <Function name="True View" shortcut="V"/>
+    <Function name="Section Cuts" shortcut="Ctrl+R"/>
+   </Category>
+   <Category name="Create">
+    <Function name="Assemblies" shortcut=""/>
+    <Function name="Beam Sections" shortcut=""/>
+    <Function name="Beam Section Collectors" shortcut=""/>
+    <Function name="Blocks" shortcut=""/>
+    <Function name="Components" shortcut=""/>
+    <Function name="Contacts" shortcut=""/>
+    <Function name="Cross Sections" shortcut=""/>
+    <Function name="Curves" shortcut=""/>
+    <Function name="Damages" shortcut=""/>
+    <Function name="Design Equations" shortcut=""/>
+    <Function name="Design Variable Property Relationships" shortcut=""/>
+    <Function name="Features" shortcut=""/>
+    <Function name="Fields" shortcut=""/>
+    <Function name="Free Body Group Collection" shortcut=""/>
+    <Function name="Groups" shortcut=""/>
+    <Function name="Include Files" shortcut=""/>
+    <Function name="Laminates" shortcut=""/>
+    <Function name="Load Collectors" shortcut=""/>
+    <Function name="Load Steps" shortcut=""/>
+    <Function name="Materials" shortcut="Shift+F9"/>
+    <Function name="Optimization Design Variables" shortcut=""/>
+    <Function name="Optimization Objectives" shortcut=""/>
+    <Function name="Optimization Responses" shortcut=""/>
+    <Function name="Output Blocks" shortcut=""/>
+    <Function name="Parameters" shortcut=""/>
+    <Function name="Plies" shortcut=""/>
+    <Function name="Plots" shortcut=""/>
+    <Function name="Properties" shortcut="Shift+F11"/>
+    <Function name="Regions" shortcut=""/>
+    <Function name="Rigid Bodys" shortcut=""/>
+    <Function name="Rigid Walls" shortcut=""/>
+    <Function name="Sensors" shortcut=""/>
+    <Function name="Sets" shortcut=""/>
+    <Function name="Set Segments" shortcut=""/>
+    <Function name="System Collectors" shortcut=""/>
+    <Function name="Vector Collectors" shortcut=""/>
+   </Category>
+   <Category name="Aerospace">
+    <Function name="Aircraft Transformation Tool" shortcut=""/>
+    <Function name="Assembly from CSV" shortcut=""/>
+    <Function name="Beams from Lines" shortcut=""/>
+    <Function name="Boolean On Sets" shortcut=""/>
+    <Function name="CFAST Validate" shortcut=""/>
+    <Function name="Compare Models" shortcut=""/>
+    <Function name="Control IDs from Selection" shortcut=""/>
+    <Function name="Dataname Viewer" shortcut=""/>
+    <Function name="Derived Load Cases" shortcut=""/>
+    <Function name="Export in Custom Format" shortcut=""/>
+    <Function name="FE Absorb Plies" shortcut=""/>
+    <Function name="Field Looper" shortcut=""/>
+    <Function name="File Loader" shortcut=""/>
+    <Function name="Line Loads" shortcut=""/>
+    <Function name="Linear Gaps" shortcut=""/>
+    <Function name="List Browser" shortcut=""/>
+    <Function name="Map Force/Mass/Temperature" shortcut=""/>
+    <Function name="Mass and COG Review" shortcut=""/>
+    <Function name="Min-Max/Ranking/Envelope" shortcut=""/>
+    <Function name="Organize Aero Components Using Cord-System" shortcut=""/>
+    <Function name="Organize Aero Components Using IDs" shortcut=""/>
+    <Function name="Parts from CSV" shortcut=""/>
+    <Function name="PLOAD1 Create and Review" shortcut=""/>
+    <Function name="Plot RBE/MPC" shortcut=""/>
+    <Function name="Plot SPC/SPCD" shortcut=""/>
+    <Function name="Ply Geometry Smoothing" shortcut=""/>
+    <Function name="Precision Control" shortcut=""/>
+    <Function name="Pressure To Forces" shortcut=""/>
+    <Function name="Property by Element ID" shortcut=""/>
+    <Function name="Quick Coord Creation" shortcut=""/>
+    <Function name="RBE2 Filter" shortcut=""/>
+    <Function name="Results Query" shortcut=""/>
+    <Function name="Section Cut-Review" shortcut=""/>
+    <Function name="Sewing Tools" shortcut=""/>
+    <Function name="Shell to Solid Conversion" shortcut=""/>
+    <Function name="Split 1D Elems" shortcut=""/>
+    <Function name="Stuck Node" shortcut=""/>
+    <Function name="System-Node Review" shortcut=""/>
+    <Function name="Window Pressure" shortcut=""/>
+    <Function name="Zero Length Elements" shortcut=""/>
+   </Category>
+   <Category name="Help">
+    <Function name="Updates and System Information" shortcut=""/>
+    <Function name="About HyperWorks" shortcut=""/>
+    <Function name="Contact Us" shortcut=""/>
+    <Function name="Online Learning" shortcut=""/>
+    <Function name="Script Exchange" shortcut=""/>
+   </Category>
+   <Category name="Preferences">
+    <Function name="Preferences" shortcut="O"/>
+    <Function name="Criteria File Settings" shortcut="Ctrl+Shift+C"/>
+    <Function name="Parameters File Settings" shortcut="Ctrl+Shift+P"/>
+   </Category>
+   <Category name="Views">
+    <Function name="Fit" shortcut="F"/>
+    <Function name="Previous view" shortcut="B"/>
+    <Function name="Zoom in" shortcut="+"/>
+    <Function name="Zoom out" shortcut="-"/>
+    <Function name="Circle zoom" shortcut=""/>
+    <Function name="Toggle visualization mode" shortcut="X"/>
+    <Function name="Save view 1" shortcut=""/>
+    <Function name="Save view 2" shortcut=""/>
+    <Function name="Save view 3" shortcut=""/>
+    <Function name="Save view 4" shortcut=""/>
+    <Function name="Save view 5" shortcut=""/>
+    <Function name="Save view 6" shortcut=""/>
+    <Function name="Save view 7" shortcut=""/>
+    <Function name="Save view 8" shortcut=""/>
+    <Function name="Save view 9" shortcut=""/>
+    <Function name="Save view 0" shortcut=""/>
+    <Function name="Restore view 0" shortcut=""/>
+    <Function name="Restore view 1" shortcut=""/>
+    <Function name="Restore view 2" shortcut=""/>
+    <Function name="Restore view 3" shortcut=""/>
+    <Function name="Restore view 4" shortcut=""/>
+    <Function name="Restore view 5" shortcut=""/>
+    <Function name="Restore view 6" shortcut=""/>
+    <Function name="Restore view 7" shortcut=""/>
+    <Function name="Restore view 8" shortcut=""/>
+    <Function name="Restore view 9" shortcut=""/>
+   </Category>
+   <Category name="Display">
+    <Function name="Find tool" shortcut=""/>
+    <Function name="Show/Hide tool" shortcut="H"/>
+    <Function name="Show" shortcut=""/>
+    <Function name="Show entire model" shortcut=""/>
+    <Function name="Hide" shortcut=""/>
+    <Function name="Hide everything" shortcut=""/>
+    <Function name="Isolate" shortcut=""/>
+    <Function name="Show adjacent" shortcut=""/>
+    <Function name="Reverse" shortcut=""/>
+    <Function name="Mesh,Geometry, or None" shortcut=""/>
+    <Function name="Review" shortcut=""/>
+    <Function name="Hide selected/clear selection" shortcut="Ctrl+H"/>
+    <Function name="Find attached" shortcut=""/>
+    <Function name="Find nearby" shortcut=""/>
+    <Function name="Find shared by" shortcut=""/>
+   </Category>
+   <Category name="Selection">
+    <Function name="Select displayed" shortcut=""/>
+    <Function name="Select all" shortcut="Ctrl+A"/>
+    <Function name="Select adjacent" shortcut=""/>
+    <Function name="Select attached" shortcut=""/>
+    <Function name="Select similar" shortcut=""/>
+    <Function name="Reverse selection" shortcut=""/>
+    <Function name="Show/Clear IDs" shortcut=""/>
+    <Function name="Save selection" shortcut=""/>
+    <Function name="Retrieve selection" shortcut=""/>
+    <Function name="Isolate/retain other entities" shortcut=""/>
+    <Function name="Quick Selection Menu" shortcut="Ctrl+Shift+A"/>
+    <Function name="Advanced selection" shortcut=""/>
+    <Function name="Selection Search" shortcut="/"/>
+   </Category>
+   <Category name="Entity Selector">
+    <Function name="Components/Connectors" shortcut=""/>
+    <Function name="Segments/Sets/Solids/Surfaces/Systems" shortcut=""/>
+    <Function name="Elements" shortcut=""/>
+    <Function name="Laminates/Lines/Loads" shortcut=""/>
+    <Function name="Plies/Points/Properties" shortcut=""/>
+    <Function name="Materials" shortcut=""/>
+    <Function name="Nodes" shortcut=""/>
+    <Function name="Attachments" shortcut=""/>
+    <Function name="Vectors" shortcut=""/>
+    <Function name="Selection Confirm/Proceed" shortcut=""/>
+   </Category>
+   <Category name="Edit">
+    <Function name="Copy" shortcut="Ctrl+C"/>
+    <Function name="Cut" shortcut="Ctrl+X"/>
+    <Function name="Paste" shortcut="Ctrl+V"/>
+    <Function name="Paste to Current Collector" shortcut="Ctrl+Shift+V"/>
+    <Function name="Undo" shortcut="Ctrl+Z"/>
+    <Function name="Redo" shortcut="Ctrl+Y"/>
+    <Function name="Command File" shortcut=""/>
+   </Category>
+   <Category name="Pages">
+    <Function name="Add Page" shortcut=""/>
+    <Function name="Previous Page" shortcut=""/>
+    <Function name="Next Page" shortcut=""/>
+   </Category>
+   <Category name="Window Operations">
+    <Function name="Maximize/Restore Window" shortcut=""/>
+   </Category>
+   <Category name="Screen Capture">
+    <Function name="Advanced Capture" shortcut=""/>
+   </Category>
+   <Category name="Dock Windows">
+    <Function name="Demo Browser" shortcut=""/>
+    <Function name="Tcl Command Window" shortcut=""/>
+    <Function name="Altair Copilot (Beta)" shortcut=""/>
+    <Function name="Python Window" shortcut=""/>
+   </Category>
+   <Category name="File">
+    <Function name="Extensions" shortcut=""/>
+    <Function name="Licensing" shortcut=""/>
+    <Function name="New" shortcut=""/>
+    <Function name="Save" shortcut=""/>
+    <Category name="Convert">
+     <Function name="Abaqus" shortcut=""/>
+     <Function name="Ansys" shortcut=""/>
+     <Function name="LSDyna" shortcut=""/>
+     <Function name="Radioss" shortcut=""/>
+    </Category>
+    <Category name="Export">
+     <Function name="BOM" shortcut=""/>
+     <Function name="Connector" shortcut=""/>
+     <Function name="Custom" shortcut=""/>
+     <Function name="Geometry Model" shortcut=""/>
+     <Function name="H3D" shortcut=""/>
+     <Function name="HyperStudy" shortcut=""/>
+     <Function name="Solver Deck" shortcut=""/>
+    </Category>
+    <Category name="Help">
+     <Function name="About Altair HyperMesh" shortcut=""/>
+     <Function name="Altair Community" shortcut=""/>
+     <Function name="Altair Exchange" shortcut=""/>
+     <Function name="Altair How-To Video Channel" shortcut=""/>
+     <Function name="Documentation" shortcut=""/>
+     <Function name="Learning" shortcut=""/>
+     <Function name="Tutorials" shortcut=""/>
+     <Function name="Updates and System Information" shortcut=""/>
+     <Function name="What's New" shortcut=""/>
+    </Category>
+    <Category name="Import...">
+     <Function name="BOM" shortcut=""/>
+     <Function name="Connector" shortcut=""/>
+     <Function name="Custom" shortcut=""/>
+     <Function name="Geometry Model" shortcut=""/>
+     <Function name="HyperMesh Model" shortcut=""/>
+     <Function name="Results" shortcut=""/>
+     <Function name="Solver Deck" shortcut=""/>
+    </Category>
+    <Category name="Load">
+     <Function name="Command File (*.cmf)" shortcut=""/>
+     <Function name="Preference File (*.mvw)" shortcut=""/>
+     <Function name="Python Script (*.py)" shortcut=""/>
+     <Function name="Script (*.tcl, *.tbc)" shortcut=""/>
+     <Function name="Solver Template" shortcut=""/>
+    </Category>
+    <Category name="Open">
+     <Function name="Geometry Model" shortcut=""/>
+     <Function name="HyperMesh Model" shortcut=""/>
+     <Function name="Solver Deck" shortcut=""/>
+    </Category>
+    <Category name="Save As...">
+     <Function name="HyperMesh Model" shortcut=""/>
+    </Category>
+    <Category name="Screen Capture">
+     <Function name="Advanced Capture" shortcut=""/>
+     <Function name="Image to Clipboard" shortcut=""/>
+     <Function name="Image to File" shortcut=""/>
+     <Function name="Video to File" shortcut=""/>
+    </Category>
+    <Category name="Session">
+     <Function name="Flexible Reports" shortcut=""/>
+     <Function name="Import..." shortcut=""/>
+     <Function name="New" shortcut=""/>
+     <Function name="Open..." shortcut=""/>
+     <Function name="Save" shortcut=""/>
+     <Function name="Save As..." shortcut=""/>
+    </Category>
+    <Category name="Solver Interface">
+     <Function name="ADVC" shortcut=""/>
+     <Function name="Abaqus" shortcut=""/>
+     <Function name="Altair Feko" shortcut=""/>
+     <Function name="Altair HyperForm" shortcut=""/>
+     <Function name="Altair HyperMold" shortcut=""/>
+     <Function name="Altair HyperWeld" shortcut=""/>
+     <Function name="Altair HyperXtrude" shortcut=""/>
+     <Function name="Altair OptiStruct" shortcut=""/>
+     <Function name="Altair RADIOSS" shortcut=""/>
+     <Function name="Ansys" shortcut=""/>
+     <Function name="Exodus" shortcut=""/>
+     <Function name="LsDyna" shortcut=""/>
+     <Function name="Nastran" shortcut=""/>
+     <Function name="Pamcrash2G" shortcut=""/>
+     <Function name="Permas" shortcut=""/>
+    </Category>
+   </Category>
+   <Category name="View">
+    <Function name="Entity Editor" shortcut=""/>
+    <Function name="Entity State Browser" shortcut=""/>
+    <Function name="HWC Console" shortcut=""/>
+    <Function name="Keyboard Shortcuts" shortcut="Ctrl+Shift+K"/>
+    <Function name="Message Log" shortcut=""/>
+    <Function name="Model Browser" shortcut=""/>
+    <Function name="Panels" shortcut="G"/>
+    <Function name="Session Browser" shortcut=""/>
+    <Function name="Solver Browser" shortcut=""/>
+    <Function name="Workflow Help" shortcut=""/>
+    <Category name="Ribbons">
+     <Function name="Create New Custom Page" shortcut=""/>
+     <Function name="Delete Custom Pages..." shortcut=""/>
+     <Function name="Export Custom Pages..." shortcut=""/>
+     <Function name="Import Custom Pages..." shortcut=""/>
+    </Category>
+   </Category>
+  </Functions>
+  <Scripts>
+   <Script name="Script 1" filePath="D:/Desktop/Hypermesh practise/hm settings/keyboard shortcuts 2 - shift -h - find elem.tcl" shortcut=""/>
+  </Scripts>
+ </ProfileShortcuts>
+</ShortcutsData>

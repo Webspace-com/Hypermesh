@@ -1,0 +1,141 @@
+<!DOCTYPE ExportToolBeltDom>
+<ToolBeltManagers>
+ <ToolBeltManager name="BaseProfile">
+  <ToolBelt name="Alt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+  <ToolBelt name="ShiftAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+  <ToolBelt name="CtrlAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+  <ToolBelt name="CtrlShiftAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+ </ToolBeltManager>
+ <ToolBeltManager name="HMXOptiStruct">
+  <ToolBelt name="Alt_ToolBelt">
+   <ToolBeltGroup location="0" tools="HyperworksGeneral A6D23F8C-7059-4EA7-B1DE-D336130521F5,HyperworksGeneral 26970FDC-FF19-4053-B7DE-CB6B81089D1A,HyperworksGeneral C9C43ADA-23F6-4BD7-B02E-63A4AB4CF064,HyperworksGeneral 3425F629-C2ED-4B8E-8D75-791CF1101F30,HyperworksGeneral B29481BF-20A9-48A3-ADF5-3D0D71DF92F6,HyperworksGeneral EB4F3D79-8553-4FF5-8ADC-9A5C9294D6DA,HyperworksGeneral B11B9B56-E897-4838-BD79-06DCCCB60389,HyperworksGeneral F486B0FF-99E8-4AB7-A5E0-3112E8384EC6"/>
+   <ToolBeltGroup readOnlyTools="0" location="1" tools="HyperworksGeneral screencapturevideoadvanced,HyperworksGeneral 47291ED5-F479-42E6-9506-932DD080F629,HyperworksGeneral F9F8B73B-2179-4518-98FE-AC3055E1A8C7,,,,,HyperworksGeneral 78679A58-D094-4ACE-BADA-73DBBF2D7370,HyperworksGeneral 64669A63-43EF-4EE8-8752-18617529C218,HyperworksGeneral 386E0AC8-628C-4637-A384-A1212313F1BB,HyperworksGeneral 014AB8D5-0B64-4B1C-A943-0CA8A0C3EE05,HyperworksGeneral 0D4675E5-6883-4F7F-9D08-222BDC0D54DA,HyperworksGeneral C0B88D46-001B-41DF-8D9A-E98FE0A8CFF9,HyperworksGeneral B9DF0376-FCB2-4CC5-8661-59DE95C8A7C0,HyperworksGeneral 291C255D-B443-4F7E-8B2E-15F133420515,HyperworksGeneral ED50F831-878B-4DCB-AF31-AEC2B6F28CA7,HyperworksGeneral FB00F29B-D98F-4F25-8750-B325FD0DFB34,,,"/>
+   <ToolBeltGroup location="2" tools="HyperworksGeneral 94DB22B5-9E8F-49FA-94EE-C1B403A89226,HyperworksGeneral 26970FDC-FF19-4053-B7DE-CB6B81089D1A,HyperworksGeneral 4565EB4E-BDEE-412E-B60E-ECAD05788F74,HyperworksGeneral 54A0FC05-6C5D-4C57-99DB-E14315CE504E,HyperworksGeneral C0807086-251C-4497-953F-62619B2404CF,HyperworksGeneral B29481BF-20A9-48A3-ADF5-3D0D71DF92F6,HyperworksGeneral A6D23F8C-7059-4EA7-B1DE-D336130521F5,HyperworksGeneral 2687E39A-6DCA-4101-81A6-503D6A81318B,HyperworksGeneral 0EDC3932-3D78-4777-BE9F-2FE97F4DD893,HyperworksGeneral 98DBF659-8F34-47C5-9E78-BE30C90590CD"/>
+   <ToolBeltGroup location="3" tools="HyperworksGeneral BB974D51-DF7F-4CF5-8320-933B4BCD3434,HyperworksGeneral DC9BE1DE-7BA7-11ED-A1EB-0242AC120002,HyperworksGeneral 3D911351-8091-4529-8679-39B9EFF14FF7,HyperworksGeneral EADAF0B2-B336-4390-82B4-7C0205405222,HyperworksGeneral CF47C585-9992-4111-9379-270FDB503A92,HyperworksGeneral 2F28DCA5-8F05-49AD-A5A9-F97C57717E5E,HyperworksGeneral 2ECA09FA-60EA-4F72-853D-C05BB03BE103,HyperworksGeneral 46706170-F68F-433B-9449-5910393F5BCA,HyperworksGeneral 6CE13C0E-4A8D-41FB-8196-FCB0C2486980,HyperworksGeneral 3FD00837-8BBF-4BE4-BF95-EAC2912F4966"/>
+   <ToolBeltGroup location="4" tools="HyperworksGeneral C8491E8C-C647-45B1-BFD9-1E66507612C1,HyperworksGeneral DC9D55B9-65BA-4929-A1EF-5D5E4DDBC76C,HyperworksGeneral 2A73C76D-B11A-45B8-9E9E-05ED32306C44,HyperworksGeneral D8260065-89FC-4353-BE87-813222545FA4,HyperworksGeneral 7BE0B099-220B-4BE1-9EAD-E9F152DEE7AB,HyperworksGeneral 41ECC102-3CF7-46BE-A9D8-2DC0264B487A,HyperworksGeneral D745A1DB-2E72-41FF-9311-197AEF786A68,,HyperworksGeneral 78329D5E-EC16-4A34-8418-6F58B7BFEA08,HyperworksGeneral 78CC8F0E-598A-4D25-8746-03647BB4E033"/>
+   <ToolBeltGroup location="5" tools=",HyperworksGeneral F09B08A6-90FA-439B-BCD5-8A0BE0DC4273,HyperworksGeneral B9027BF9-67F3-44D8-8A65-2986B0FC02E9,HyperworksGeneral A68C613B-E9FE-41FD-A2CE-BAE6678DA629,HyperworksGeneral 0F18ABCC-77E5-48BA-995E-B906F7DA3E39,HyperworksGeneral D8633274-0569-45CB-9E38-0931E6106E4A,HyperworksGeneral E1D89F5F-2E02-42E1-A8C2-9CFB87B21AB0,HyperworksGeneral 6A0DBB3A-249E-4A71-A486-DA60BC2292C3,,HyperworksGeneral B26C9256-F0FD-4EFE-8EB2-604C6C1F9A34,HyperworksGeneral F93928C3-02F5-47BF-B4C1-90902E5144AA,,HyperworksGeneral AABC8BFF-1CC3-4150-BBA4-8EF345ABB7BC,HyperworksGeneral 1E2EAA96-10A8-4D4A-9042-62641D6D035A,HyperworksGeneral 199A5B6D-4867-4C2A-88E8-F38C518CAAE2,HyperworksGeneral 51BEFF79-6310-4FEE-BB19-6227142E335B,HyperworksGeneral 4E77A21D-2631-47C9-BCE0-C78A6389DFC6,HyperworksGeneral 4A32FE62-30BF-4E33-815B-B9458C653DFF,HyperworksGeneral 0647459A-EBAE-4BD1-96D0-9E7433966D2D,"/>
+   <ToolBeltGroup location="6" tools="HyperworksGeneral E70B939B-DD18-4AB3-818B-66A114A0FF5F,HyperworksGeneral 045B3E2A-57C4-4935-B2D4-1F48A8C9F3F7,HyperworksGeneral F44C751B-FFB7-46BF-970C-FBC671894843,HyperworksGeneral 27BDB976-868C-4774-BFDA-568DBCBAFED8,HyperworksGeneral 53352818-D061-4524-8C93-9278BB6F8817,HyperworksGeneral EBE88C4B-A25D-4567-A13E-EC1041909CE7,HyperworksGeneral EB849F1D-DA08-462D-A761-6C2CBEC0E268,,HyperworksGeneral 3CF9D1EB-B144-4FE0-B0FA-D991D8BD689A,HyperworksGeneral 8773C741-ED80-4BAE-96D7-1B00C99E47C9"/>
+   <ToolBeltGroup location="7" tools="HyperworksGeneral 896FDA97-20D9-4E65-9F02-2D303C5FD1C5,HyperworksGeneral 548E7B2C-8C90-4FEA-93EB-80245249089A,HyperworksGeneral 670B7795-F5FB-4222-AE71-3A406E0CA7BD,HyperworksGeneral 371308EF-A737-40B6-9594-8BA6841D878B,HyperworksGeneral 5BFD3EF2-EA12-4746-A78E-CA16AD532A67,HyperworksGeneral 33775A9B-63C7-4EB7-B952-A72005225C5B,HyperworksGeneral 5F6177D2-DF9F-492B-88BB-55DFAA740480,HyperworksGeneral A31E7821-A565-4350-A453-0229D3FC17B9,HyperworksGeneral C7C4005B-610B-4EB9-AEEC-3309ACABFC92,"/>
+   <ToolBeltGroup location="8" tools="HyperworksGeneral 09F388FB-893C-4954-9D50-A823045DD23D,HyperworksGeneral 49CD9939-D6C8-47B9-A072-518AF4AFEB72,,,,,,,HyperworksGeneral C08D225E-75A9-4515-8D5F-A7FA89E0CA11,HyperworksGeneral AD064EC1-D13E-4FA0-9515-00DB7B106C70"/>
+  </ToolBelt>
+  <ToolBelt name="ShiftAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools="HyperworksGeneral FE3FFD24-3E1F-4788-8E0E-7E5A815D1089,HyperworksGeneral 4A32FE62-30BF-4E33-815B-B9458C653DFF,HyperworksGeneral 2ECA09FA-60EA-4F72-853D-C05BB03BE103,HyperworksGeneral CF47C585-9992-4111-9379-270FDB503A92,HyperworksGeneral 46706170-F68F-433B-9449-5910393F5BCA,HyperworksGeneral 3D911351-8091-4529-8679-39B9EFF14FF7,HyperworksGeneral FB00F29B-D98F-4F25-8750-B325FD0DFB34,HyperworksGeneral AABC8BFF-1CC3-4150-BBA4-8EF345ABB7BC"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools="HyperworksGeneral EC5F7B78-0DE0-45C6-BB63-698CCEAEDB8B,,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools="HyperworksGeneral E1D89F5F-2E02-42E1-A8C2-9CFB87B21AB0,HyperworksGeneral 6A0DBB3A-249E-4A71-A486-DA60BC2292C3,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools="HyperworksGeneral 4DB11A6F-D893-41FB-A24C-05943D617B76,HyperworksGeneral 7E5DA11F-B617-44B4-A437-EE2BC171EB32,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,HyperworksGeneral 86B8A877-29A9-46C9-AF78-C1C77BAAB1BE,HyperworksGeneral 2C5158FC-58F9-4265-93E2-35AE87052595,HyperworksGeneral BD71298E-EAF6-40B9-9B3E-94A91352F794,HyperworksGeneral 3FD00837-8BBF-4BE4-BF95-EAC2912F4966,HyperworksGeneral A68C613B-E9FE-41FD-A2CE-BAE6678DA629,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,HyperworksGeneral EB849F1D-DA08-462D-A761-6C2CBEC0E268,HyperworksGeneral BA0E1CB0-E79E-4EBD-803C-2B7C92B3124C,HyperworksGeneral 05900BA9-E8D4-4726-9E49-F341ACE363C6,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,HyperworksGeneral 896FDA97-20D9-4E65-9F02-2D303C5FD1C5,HyperworksGeneral 932EB6D0-53DD-456F-BA42-38EFF7B9557B"/>
+   <ToolBeltGroup location="8" tools=",,,,,HyperworksGeneral 35835BEF-FAD7-4F0A-8401-6C3DEF36265E,HyperworksGeneral 75D982D0-9EE8-4B1A-B9B6-CE109F4E7FB3,HyperworksGeneral BC7770F1-52E7-4D1F-99E7-B2DC65743588,HyperworksGeneral 7BE78700-73C9-45E8-B1CE-71B41D85A28B,HyperworksGeneral 6FF537E9-1671-4759-A919-81926792FE12"/>
+  </ToolBelt>
+  <ToolBelt name="CtrlAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools="HyperworksGeneral AE42B99C-5C2A-4DA7-B036-B9809B547F41,HyperworksGeneral 5060CCBF-94E5-49C2-AB88-134404EC5193,HyperworksGeneral 683E2667-4591-467F-9FFD-DE767840B06C,HyperworksGeneral 9962992A-55E0-421D-99AB-811F0BC8DA49,HyperworksGeneral 799E745B-0CE2-4BB1-96F8-A9AF0465581F,HyperworksGeneral 9998B0E0-7549-4BB3-98B2-65503B049BDC,HyperworksGeneral 8F3FEEC5-6601-4AAE-8C09-F5B7993F1597,HyperworksGeneral 76C77E05-2626-4DD4-923A-5911BC333016"/>
+   <ToolBeltGroup location="1" tools=",,,,HyperworksGeneral 7D0155F6-6EC5-4B2D-A00D-18CFFDC8D98A,HyperworksGeneral B1EC0868-FD82-4A87-A8C4-2B0E9F1ABB57,HyperworksGeneral 86FC45D0-CE42-4696-95A5-F0455DFB5692,HyperworksGeneral 9998B0E0-7549-4BB3-98B2-65503B049BDC,HyperworksGeneral 8F3FEEC5-6601-4AAE-8C09-F5B7993F1597,HyperworksGeneral 76C77E05-2626-4DD4-923A-5911BC333016,HyperworksGeneral B591D3E2-D8B4-4509-8D40-464452FC2778,HyperworksGeneral 72D09065-F50C-42DB-9E71-687BAFB84F61,HyperworksGeneral 0DD934D3-A39E-47D0-A152-63F884DF6F9C,HyperworksGeneral 47CA93FC-43FF-4628-A5D2-CD82E8188443,HyperworksGeneral 1DDCC3C0-3C69-418F-B962-CD9907F3A88E,HyperworksGeneral 7CEF0D63-DCE6-453B-B2C3-9F82802FD5AC,,,,"/>
+   <ToolBeltGroup location="2" tools="HyperworksGeneral 7460855A-6805-4E73-9D34-D85D69591EAC,HyperworksGeneral B337C3C2-06FF-4CF9-87AC-2453FA45321C,HyperworksGeneral 2C82352F-AB72-4E07-B03E-5AFB8C79B3BD,HyperworksGeneral D493990A-0D61-4985-B84F-02248080F445,,,,,,"/>
+   <ToolBeltGroup location="3" tools="HyperworksGeneral 9900143D-E758-457C-93B2-46CBB9A373E0,HyperworksGeneral 99222687-54D3-45A9-8EDD-0255184C639C,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,HyperworksGeneral E617F631-59BA-4B5B-8DC1-A953FF670CCD,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,HyperworksGeneral 8773C741-ED80-4BAE-96D7-1B00C99E47C9,HyperworksGeneral 176D96A7-4511-4274-A143-AC5DF62A4F95,HyperworksGeneral 1B347ED0-0279-4F92-A5CD-398E2E406B67"/>
+  </ToolBelt>
+  <ToolBelt name="CtrlShiftAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools="HyperworksGeneral 9CC5CA7B-59F2-4BE8-BAD2-6DE11B3ADEC7,HyperworksGeneral 7B3F3181-6A02-4C2C-AAEA-AE177E048C72,HyperworksGeneral FD41D993-E3F7-4DFD-8916-A7F622D8C72C,HyperworksGeneral 25D23E69-F2B0-403B-AEC3-0A4508928BE7,HyperworksGeneral A394657F-BD46-418C-AB61-5282360614C1,HyperworksGeneral 689FE849-360A-4843-B6C7-2054B0FF7040,HyperworksGeneral 3B8C41FE-322C-4A61-A60D-4A5E9972F121,HyperworksGeneral 5450424D-B109-4A79-B6F7-3FA7C413C907"/>
+   <ToolBeltGroup location="1" tools=",,,,,,HyperworksGeneral 6C4A8481-F961-4A8B-AE38-E8CD91895BB5,HyperworksGeneral BE2F1F39-2084-4E6F-BBE1-F7A849639D81,HyperworksGeneral 765649DB-186D-4F43-8A0A-C8BA8FAEF1D1,HyperworksGeneral 6A8EBDB0-EC5B-4CDC-BA2B-77BF0049E284,HyperworksGeneral 275C95CD-E2C6-457B-97AA-06FDF1A9DD83,HyperworksGeneral 9CB7591B-7661-4517-B7D4-8B3877B44FAC,HyperworksGeneral 01CC8E3B-3001-41A8-872B-6CA86F8FFBBF,HyperworksGeneral D3BD6BD3-18E0-4D97-8EB2-AE32EAD06E8F,HyperworksGeneral 2B02DB0A-6CEB-494F-8C45-D8D767250884,HyperworksGeneral 3FD00837-8BBF-4BE4-BF95-EAC2912F4966,,,,"/>
+   <ToolBeltGroup location="2" tools="HyperworksGeneral 60C4EB56-38D3-414B-BDE0-FE00C8BB4815,HyperworksGeneral F2135376-DE0A-48E2-BFA5-857F9B25A20A,HyperworksGeneral 08A34521-7974-4C34-862E-43FA207CA409,,,,,,,"/>
+   <ToolBeltGroup location="3" tools="HyperworksGeneral 905670FB-A166-4ECF-92B7-16D43BB78E1C,HyperworksGeneral FA411DA2-C462-483D-A588-39E32389B78B,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,HyperworksGeneral C6F36255-7489-441C-82AC-6437C088F6EB,HyperworksGeneral 312458F5-FBA0-43DC-AC4A-BE06C3474895,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,HyperworksGeneral C1FF4FCD-C3B0-4DC3-9948-812CDECFF3A2,HyperworksGeneral 18B9FAD5-14BF-4F0E-943A-71C94B74BD6A"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,HyperworksGeneral F2DE35BA-AC2B-4D43-BEEF-182318B908D5,HyperworksGeneral F2DE35BA-AC2B-4D43-BEEF-182318B908D5"/>
+  </ToolBelt>
+ </ToolBeltManager>
+ <ToolBeltManager name="HyperworksLauncher">
+  <ToolBelt name="Alt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+  <ToolBelt name="ShiftAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+  <ToolBelt name="CtrlAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+  <ToolBelt name="CtrlShiftAlt_ToolBelt">
+   <ToolBeltGroup location="0" tools=",,,,,,,"/>
+   <ToolBeltGroup location="1" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="2" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="3" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="4" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="5" tools=",,,,,,,,,,,,,,,,,,,"/>
+   <ToolBeltGroup location="6" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="7" tools=",,,,,,,,,"/>
+   <ToolBeltGroup location="8" tools=",,,,,,,,,"/>
+  </ToolBelt>
+ </ToolBeltManager>
+</ToolBeltManagers>
